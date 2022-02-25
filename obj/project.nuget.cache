@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRLfjqXzzNgyoSpyE6TfpOb59FNN3KSicxFcDwnjf3QA7wzCXT33zkw+fRWIGQ5hclHSjz1MGag6e2qLdC3pWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\Pratikler\\Hata yonetimi\\Hata yonetimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\bin\Debug\net5.0\Hata yonetimi.exe
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\bin\Debug\net5.0\Hata yonetimi.deps.json
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\bin\Debug\net5.0\Hata yonetimi.runtimeconfig.json
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\bin\Debug\net5.0\Hata yonetimi.runtimeconfig.dev.json
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\bin\Debug\net5.0\Hata yonetimi.dll
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\bin\Debug\net5.0\Hata yonetimi.pdb
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.csproj.AssemblyReference.cache
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.AssemblyInfoInputs.cache
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.AssemblyInfo.cs
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.dll
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\refint\Hata yonetimi.dll
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.pdb
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\Hata yonetimi.genruntimeconfig.cache
+C:\Users\merves\Desktop\Pratikler\Hata yonetimi\obj\Debug\net5.0\ref\Hata yonetimi.dll
